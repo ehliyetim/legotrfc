@@ -198,7 +198,7 @@
     "id": 7815,
     "category": "İlk Yardım",
     "question": "Şekildeki gibi cisim batması durumunda aşağıdaki uygulamalardan hangisinin yapılması doğrudur?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/gogusyaralnmasi.png",
     "options": [
       { "text": "Cismin çıkarılması ve yaralının hastaneye sevk edilmesi", "isTrue": false },
       { "text": "Cismin çıkarılmadan sabitlenmesi ve yaralının hastaneye sevk edilmesi", "isTrue": true },
@@ -302,12 +302,12 @@
     "id": 7823,
     "category": "İlk Yardım",
     "question": "Kaburga kemiğinde kırık olan kazazedeye aşağıdaki pozisyonlardan hangisi verilerek hastaneye sevk edilmelidir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": true },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru24a.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru24b.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru24c.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru24d.png", "isTrue": false }
     ],
     "description": "Kaburga kırıklarında, kırık kemiklerin akciğere batmasını önlemek ve solunumu kolaylaştırmak için yaralıya yarı oturur veya oturur pozisyon verilir. A seçeneğindeki görsel bu pozisyonu göstermektedir."
   },
@@ -432,12 +432,12 @@
     "id": 7833,
     "category": "Trafik ve Çevre",
     "question": "Trafik görevlisinin hangi hareketi trafiği yavaşlatma talimatıdır?",
-    "image_url": "[Görsel URL'si]",
+    "image_url":  null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": true },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik2.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/acik1.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/yavaslatma1.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/police/hizlandirma1.png", "isTrue": false }
     ],
     "description": "Trafik görevlisinin kolunu aşağı ve yukarı yavaşça sallaması, o yöndeki trafiğin yavaşlaması gerektiği anlamına gelir."
   },
@@ -445,7 +445,7 @@
     "id": 7834,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti aşağıdakilerden hangisine yaklaşıldığını bildirir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru35.png",
     "options": [
       { "text": "Demir yolu alt geçidine", "isTrue": false },
       { "text": "Demir yolu üst geçidine", "isTrue": false },
@@ -458,7 +458,7 @@
     "id": 7835,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işaretinin anlamı nedir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru36.png",
     "options": [
       { "text": "Ehli hayvanlar geçebilir.", "isTrue": false },
       { "text": "Ehli hayvanlar giremez.", "isTrue": true },
@@ -471,7 +471,7 @@
     "id": 7836,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sagdandaralma.png",
     "options": [
       { "text": "Taşıt yolunun soldan daralacağını", "isTrue": false },
       { "text": "Taşıt yolunun sağdan daralacağını", "isTrue": true },
@@ -486,10 +486,10 @@
     "question": "Aşağıdakilerden hangisi iki yönlü trafik işaretidir?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": true }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/dur.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/sollamakyasak.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yolver.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/iki_yonlu_trafik.png", "isTrue": true }
     ],
     "description": "D seçeneğindeki üçgen içinde zıt yönlü iki ok bulunan levha, yolun ilerleyen kesiminin iki yönlü trafiğe (hem gidiş hem geliş) açık olduğunu belirtir."
   },
@@ -499,10 +499,10 @@
     "question": "Aşağıdakilerden hangisi tehlikeli viraj yön levhasıdır?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": true },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru39a.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yolver.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru39c.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru39d.png", "isTrue": false }
     ],
     "description": "A seçeneğindeki siyah-beyaz oklu levha, keskin ve tehlikeli bir virajın yönünü belirtmek için kullanılır ve sürücüleri virajın tehlikesine karşı uyarır."
   },
@@ -510,7 +510,7 @@
     "id": 7839,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/meb1soru40.png",
     "options": [
       { "text": "Sadece tarım traktörünün girebileceğini", "isTrue": false },
       { "text": "Tarım traktörünün giremeyeceğini", "isTrue": true },
@@ -523,7 +523,7 @@
     "id": 7840,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi yasaklar?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/u_donusu_yapilmaz.png",
     "options": [
       { "text": "Ada etrafında dönmeyi", "isTrue": false },
       { "text": "\"U\" dönüşü yapmayı", "isTrue": true },
@@ -536,14 +536,14 @@
     "id": 7841,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki trafik işareti neyi bildirir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/yayagecemez.png",
     "options": [
       { "text": "Yaya yolunu", "isTrue": false },
-      { "text": "Yaya geçidini", "isTrue": true },
-      { "text": "Yayanın giremeyeceğini", "isTrue": false },
+      { "text": "Yaya geçidini", "isTrue": false },
+      { "text": "Yayanın giremeyeceğini", "isTrue": true },
       { "text": "Yola yayanın çıkabileceğini", "isTrue": false }
     ],
-    "description": "Mavi zeminli bu bilgilendirme levhası, ileride yayaların karşıdan karşıya geçmesi için ayrılmış bir 'yaya geçidi' olduğunu bildirir."
+    "description": "Yaya geçemez levhasıdır"
   },
   {
     "id": 7842,
@@ -551,10 +551,10 @@
     "question": "Aşağıdakilerden hangisi bütün yasaklama ve kısıtlamaların sona erdiğini bildirir?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": true },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false }
+      { "text": "mebsoru43b.png", "isTrue": true },
+      { "text": "mebsoru43a.png", "isTrue": false },
+      { "text": "mebsoru43c.png", "isTrue": false },
+      { "text": "mebsoru43d.png", "isTrue": false }
     ],
     "description": "A seçeneğindeki siyah beyaz ve üzerinde çapraz bir çizgi bulunan levha, daha önce konulmuş olan hız sınırı, sollama yasağı gibi tüm yasaklama ve kısıtlamaların sona erdiğini bildirir."
   },
@@ -562,7 +562,7 @@
     "id": 7843,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki yol çizgisinin anlamı nedir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/kavsakveyol/kesikli_cizgi.png",
     "options": [
       { "text": "Şerit değiştirmek yasaktır.", "isTrue": false },
       { "text": "Öndeki aracı geçmek yasaktır.", "isTrue": false },
@@ -575,7 +575,7 @@
     "id": 7844,
     "category": "Trafik ve Çevre",
     "question": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru45.png",
     "options": [
       { "text": "Işıklara 50 m kaldığını", "isTrue": false },
       { "text": "Asgari (en az) hız sınırını", "isTrue": false },
@@ -588,7 +588,7 @@
     "id": 7845,
     "category": "Trafik ve Çevre",
     "question": "İniş eğimli yolda seyreden traktör sürücüsünün aşağıdakilerden hangisini yapması yasaktır?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": null,
     "options": [
       { "text": "Düşük hızla seyretmesi", "isTrue": false },
       { "text": "Hız azaltmak için frene basması", "isTrue": false },
@@ -627,7 +627,7 @@
     "id": 7848,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki araç sürücüsü kavşaktan sağa dönüş yapmak için hangi şeridi izlemelidir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://aaasoftinfopages.github.io/legotrfc/page/questions/donelkavsak_geri_donus.png",
     "options": [
       { "text": "1 numaralı şeridi", "isTrue": false },
       { "text": "2 numaralı şeridi", "isTrue": false },
@@ -640,7 +640,7 @@
     "id": 7849,
     "category": "Trafik ve Çevre",
     "question": "Araç sürücüsü, şekildeki alt geçitten geçerken aşağıdakilerden hangisini dikkate almalıdır?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru50.png",
     "options": [
       { "text": "Taşıma sınırını", "isTrue": false },
       { "text": "Dingil ağırlığını", "isTrue": false },
@@ -653,7 +653,7 @@
     "id": 7850,
     "category": "Trafik ve Çevre",
     "question": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri dışındaki bölünmüş yollarda azami hızı saatte kaç kilometredir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru51",
     "options": [
       { "text": "20", "isTrue": false },
       { "text": "30", "isTrue": false },
@@ -692,7 +692,7 @@
     "id": 7853,
     "category": "Trafik ve Çevre",
     "question": "Şekle göre kontrolsüz kavşakta karşılaşan araçlardan hangisi ilk geçiş hakkını kullanmalıdır?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru24.png",
     "options": [
       { "text": "1 nolu araç", "isTrue": false },
       { "text": "2 nolu araç", "isTrue": true },
@@ -705,7 +705,7 @@
     "id": 7854,
     "category": "Trafik ve Çevre",
     "question": "Şekildeki karşılaşmada hangi araç ilk geçiş hakkını kullanmalıdır?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru25.png",
     "options": [
       { "text": "Otobüs", "isTrue": true },
       { "text": "Tarım traktörü", "isTrue": false },
@@ -1110,10 +1110,10 @@
     "question": "Seyir hâlindeki aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, trafik kurallarına uymak şartıyla derhâl durulması gerektiğini belirtir?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": true },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/akuarizauyari.png", "isTrue": true },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/dusukyakit.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/parkfreniuyarisi.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false }
     ],
     "description": "A seçeneğindeki akü/şarj ikaz ışığı, şarj sisteminde bir sorun olduğunu ve motorun çalışması için gerekli elektriğin üretilmediğini gösterir. Bu durumda araç kısa süre sonra duracağı için derhal güvenli bir yere çekilmelidir."
   },
@@ -1147,7 +1147,7 @@
     "id": 7888,
     "category": "Motor ve Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen ve araç için gerekli elektriği üreten parçaya ne ad verilir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru89.png",
     "options": [
       { "text": "Marş motoru", "isTrue": false },
       { "text": "Diferansiyel", "isTrue": false },
@@ -1162,10 +1162,10 @@
     "question": "Aracın gösterge panelinde aşağıdakilerden hangisinin sürekli yanıp sönmesi, sağa dönüş sinyal lambalarının çalışıyor olduğunu bildirir?",
     "image_url": null,
     "options": [
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": false },
-      { "text": "[Görsel URL'si]", "isTrue": true }
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/uzunfar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/kısafar.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/soladonus.png", "isTrue": false },
+      { "text": "https://aaasoftinfopages.github.io/legotrfc/page/ikaz/sagadonus.png", "isTrue": true }
     ],
     "description": "Gösterge panelindeki sağa doğru yönelen ok şeklindeki yeşil ışığın yanıp sönmesi, sağ sinyal lambalarının aktif olduğunu gösterir."
   },
@@ -1173,14 +1173,14 @@
     "id": 7890,
     "category": "Motor ve Araç Tekniği",
     "question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "meb1soru91.png",
     "options": [
       { "text": "Aracın hızını", "isTrue": false },
-      { "text": "Yakıt miktarını", "isTrue": true },
+      { "text": "Yakıt miktarını", "isTrue": false },
       { "text": "Motor sıcaklığını", "isTrue": false },
-      { "text": "Motor devir sayısını", "isTrue": false }
+      { "text": "Motor devir sayısını", "isTrue": true }
     ],
-    "description": "Görseldeki benzin pompası simgesi ve E (Empty/Boş) - F (Full/Dolu) harfleri, bu göstergenin depodaki yakıt miktarını gösterdiğini belirtir."
+    "description": "Devir sayısını göstermektedir"
   },
   {
     "id": 7891,
@@ -1225,14 +1225,14 @@
     "id": 7894,
     "category": "Motor ve Araç Tekniği",
     "question": "Şekilde soru işareti (?) ile gösterilen güç aktarma organının adı nedir?",
-    "image_url": "[Görsel URL'si]",
+    "image_url": "https://ehliyetim.github.io/konu-anlatimi/images/meb1soru95.png",
     "options": [
-      { "text": "Diferansiyel", "isTrue": false },
+      { "text": "Diferansiyel", "isTrue": true },
       { "text": "Kavrama", "isTrue": false },
       { "text": "Volan", "isTrue": false },
-      { "text": "Vites Kutusu", "isTrue": true }
+      { "text": "Vites Kutusu", "isTrue": false }
     ],
-    "description": "Görseldeki güç aktarma sıralamasında, motordan hemen sonra gelen ve üzerinde vites kolu bulunan parça Vites Kutusudur (şanzıman)."
+    "description": "Görselde eksik olan kısım diferansiyeldir."
   },
   {
     "id": 7895,
